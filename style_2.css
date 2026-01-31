@@ -1,0 +1,51 @@
+.heading{ font-size:26px;
+  background:linear-gradient(90deg,#f0be1d,#C71585);
+  -webkit-background-clip:text;
+    background-clip:text;
+  -webkit-text-fill-color:transparent;
+  color:transparent;
+ 
+
+  
+
+}
+
+
+	.guide{
+		display:inline;
+		
+	}
+.buttoms{
+	margin-right:10px;
+	
+}
+button{background:linear-gradient(90deg,#000000,#808080);
+  -webkit-background-clip:text;
+    background-clip:text;
+  -webkit-text-fill-color:transparent;
+  color:transparent;}
+
+hr{
+	height:1600px;
+	width:3px;
+	background-color:black;
+	}
+.text1{
+	display:flex;
+	align-items:center;
+	gap:10px;
+}
+.text{
+	flex:1;
+
+}
+.text2{
+	margin-left:25%;
+	font-size:25px
+	
+}
+
+.vidos{
+	height:350px;
+	width:450px
+}

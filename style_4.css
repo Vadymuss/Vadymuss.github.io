@@ -1,0 +1,67 @@
+.heading{ font-size:26px;
+  background:linear-gradient(90deg,#f0be1d,#C71585);
+  -webkit-background-clip:text;
+    background-clip:text;
+  -webkit-text-fill-color:transparent;
+  color:transparent
+}
+
+
+
+
+	.guide{
+		display:inline;
+		
+	}
+.buttoms{
+	margin-right:10px;
+	
+}
+button{background:linear-gradient(90deg,#000000,#808080);
+  -webkit-background-clip:text;
+    background-clip:text;
+  -webkit-text-fill-color:transparent;
+  color:transparent;}
+  
+
+
+.ціна{
+	font-family:Monotype Corsiva;
+	font-size:25px;
+	
+}
+  
+  .інгредієнти{
+	  color:grey;
+	  font-size:20px
+  }
+  
+  .ph{
+	  
+	  text-align:center;
+  }
+  
+  .ph img{
+	  width:250px;
+	  height:250;
+	  
+  }
+  .menu{
+	  display:grid;
+	  grid-template-columns:repeat(4,1fr);
+	  gap:25px;
+	  
+  }
+  .ph img:hover{
+	border:5px double yellow
+  }
+  
+  .інгредієнти:hover{
+	  border:3px inset red;
+  }
+  
+  
+  
+  
+  
+  

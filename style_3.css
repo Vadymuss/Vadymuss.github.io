@@ -1,0 +1,61 @@
+.heading{ font-size:26px;
+  background:linear-gradient(90deg,#f0be1d,#C71585);
+  -webkit-background-clip:text;
+    background-clip:text;
+  -webkit-text-fill-color:transparent;
+  color:transparent
+}
+
+
+
+
+	.guide{
+		display:inline;
+		
+	}
+.buttoms{
+	margin-right:10px;
+	
+}
+button{background:linear-gradient(90deg,#000000,#808080);
+  -webkit-background-clip:text;
+    background-clip:text;
+  -webkit-text-fill-color:transparent;
+  color:transparent;}
+  
+  .dropdown{
+	  display:inline-block;
+  }
+  
+  .dropdown-content{
+	  display:none;
+	  text-align:center;
+	  position:absolute;
+  }
+  
+  .dropdown:hover .dropdown-content{
+	  display:block;
+  }
+  
+  .rozt{background:linear-gradient(90deg,#000000,#808080);
+  -webkit-background-clip:text;
+    background-clip:text;
+  -webkit-text-fill-color:transparent;
+  color:transparent;
+	  display:block;
+  }
+  
+  .fotoglob{
+	  margin-right:100px;
+  }
+  .pglob{
+	  text-align:center;
+  }
+  
+  .text{margin-top:75px;}
+  
+ 
+ 
+  
+  
+  
